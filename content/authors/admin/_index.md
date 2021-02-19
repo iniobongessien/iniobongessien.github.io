@@ -14,7 +14,7 @@ organizations:
   url: https://www.fernuni-hagen.de/community-psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study relationships between context and intergroup processes.
+bio: I'm interested in how social contexts affect intergroup relations.
 
 # Interests to show in About widget
 interests:
@@ -40,15 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=cEQ0y48AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/iniobongessien
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
