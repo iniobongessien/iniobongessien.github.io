@@ -10,7 +10,7 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Psychology, Community Psychology, FernUniversität in Hagen
+- name: Institute of Psychology, FernUniversität in Hagen
   url: https://www.fernuni-hagen.de/community-psychology
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,9 +46,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/iniobongessien
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,8 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the Department of Community Psychology, FernUniversität in Hagen, Germany. My research investigates how social context affects intergroup processes. For example, I'm interested in how places are described differently depending on the groups of people living there (i.e., space-focused stereotyping); how the social composition of school contexts affects how teachers' decision making in the classroom; and how geographic regions might differ in terms of intergroup bias.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
