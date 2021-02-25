@@ -37,6 +37,8 @@ design:
   view: 4
 ---
 
+Kemme, S., *Essien, I.*, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. Monatsschrift für Kriminologie und Strafrechtsreform, 103, 1–21. https://doi.org/10.1515/mks-2020-2048
+
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
