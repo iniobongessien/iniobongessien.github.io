@@ -20,7 +20,9 @@ bio: I'm interested in how social contexts affect intergroup relations.
 interests:
 - Intergroup Relations
 - Stereotyping and Prejudice
+- Social Context
 - Discrimination
+- Stigmatized Groups
 
 # Education to show in About widget
 education:
