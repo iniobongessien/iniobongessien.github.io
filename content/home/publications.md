@@ -48,8 +48,3 @@ Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P.
 **Essien, I.**, Stelter, M., Kalbe, F., Köhler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. _Journal of Experimental Social Psychology_, 70, 41–47. https://doi.org/10.1016/j.jesp.2016.12.009
 
 Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus segregation on automatic approach and avoidance behavior towards own and other ethnic groups. _European Journal of Social Psychology_. 46, 783–791.doi:10.1002/ejsp.2234
-
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
