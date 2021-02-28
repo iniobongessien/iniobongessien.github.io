@@ -21,7 +21,7 @@ interests:
 - Intergroup Relations
 - Stereotyping and Prejudice
 - Social Context
-- Discrimination
+- Social Identity
 - Stigmatized Groups
 
 # Education to show in About widget
