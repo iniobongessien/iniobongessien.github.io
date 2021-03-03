@@ -48,6 +48,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Iniobong-Essien
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/upyct/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
