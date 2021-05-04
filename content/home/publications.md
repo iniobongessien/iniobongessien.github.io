@@ -37,6 +37,8 @@ design:
   view: 4
 ---
 
+**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_.
+
 Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, 103, 1–21. https://doi.org/10.1515/mks-2020-2048
 
 **Essien, I.**, Calanchini, J., & Degner, J. (2020). Moderators of intergroup evaluation in disadvantaged groups: A comprehensive test of predictions from system justification theory. _Journal of Personality and Social Psychology_. https://doi.org/10.1037/pspi0000302
