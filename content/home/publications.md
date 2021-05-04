@@ -37,7 +37,7 @@ design:
   view: 4
 ---
 
-**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. 
+**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_.
 
 Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, 103, 1–21. https://doi.org/10.1515/mks-2020-2048
 
