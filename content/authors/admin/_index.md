@@ -30,7 +30,7 @@ education:
   - course: Doctor of Science (Dr. rer. nat.) in Social Psychology
     institution: Universität Hamburg
     year: 2020
-  - course: Diplom degree (equivalent M.A.) in Psychology
+  - course: Diplom Degree (equivalent M.A.) in Psychology
     institution: Universität Hamburg
     year: 2012
 
