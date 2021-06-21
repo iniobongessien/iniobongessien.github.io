@@ -40,7 +40,7 @@ design:
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (under review). Racial bias in police traffic stops: White resident’s county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.
 \* Co-lead authors.
 
-**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. Preprint
+**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
 Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, 103, 1–21. https://doi.org/10.1515/mks-2020-2048
 
