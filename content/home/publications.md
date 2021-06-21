@@ -37,7 +37,10 @@ design:
   view: 4
 ---
 
-**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_.
+Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (under review). Racial bias in police traffic stops: White resident’s county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.
+\* Co-lead authors.
+
+**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. Preprint
 
 Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, 103, 1–21. https://doi.org/10.1515/mks-2020-2048
 
@@ -48,5 +51,6 @@ Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P.
 **Essien, I.**, Degner, J., & Otten, S. (2020). Group evaluations as self-group distancing: Ingroup typicality moderates evaluative intergroup bias in stigmatized groups. _European Journal of Social Psychology_. https://doi.org/10.1002/ejsp.2708
 
 **Essien, I.**\*, Stelter, M.\*, Kalbe, F., Köhler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. _Journal of Experimental Social Psychology_, 70, 41–47. https://doi.org/10.1016/j.jesp.2016.12.009
+\* Co-lead authors.
 
 Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus segregation on automatic approach and avoidance behavior towards own and other ethnic groups. _European Journal of Social Psychology_. 46, 783–791. https://doi.org/10.1002/ejsp.2234
