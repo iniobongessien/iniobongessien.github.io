@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher at the Department of Community Psychology, FernUniversität in Hagen, Germany.
-
 I study intergroup processes and social context. For example, my research investigates how places are described differently depending on the groups of people living there; how the social composition of school contexts affects teachers' decision making in the classroom; or how geographic regions might differ in terms of intergroup bias.
+
+I am a postdoctoral researcher at the Department of Community Psychology, FernUniversität in Hagen, Germany.
