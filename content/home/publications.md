@@ -43,9 +43,9 @@ Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bia
 
 **Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
-Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, _103_(2), 129–149. https://doi.org/10.1515/mks-2020-2048
+**Essien, I.**, Calanchini, J., & Degner, J. (2021). Moderators of intergroup evaluation in disadvantaged groups: A comprehensive test of predictions from system justification theory. _Journal of Personality and Social Psychology_, _120_(5), 1204–1230. https://doi.org/10.1037/pspi0000302
 
-**Essien, I.**, Calanchini, J., & Degner, J. (2020). Moderators of intergroup evaluation in disadvantaged groups: A comprehensive test of predictions from system justification theory. _Journal of Personality and Social Psychology_, _120_(5), 1204–1230. https://doi.org/10.1037/pspi0000302
+Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, _103_(2), 129–149. https://doi.org/10.1515/mks-2020-2048
 
 Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P., Badea, C., Bae, J., Batruch, A., Becker, J. C., Bocian, K., Bodroža, B., Bourguignon, D., Bukowski, M., Butera, F., Butler, S. E., Chryssochoou, X., Conway, P., Crawford, J. T., ... **Essien, I.**, … & Zimmerman, J. L. (2020). Subjective status and perceived legitimacy across countries. _European Journal of Social Psychology_, _50_(5), 921–942. https://doi.org/10.1002/ejsp.2694
 
