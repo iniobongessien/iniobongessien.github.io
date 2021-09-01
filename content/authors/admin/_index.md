@@ -10,7 +10,7 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Psychology, FernUniversität in Hagen
+- name: Leuphana Universität Lüneburg
   url: https://www.fernuni-hagen.de/community-psychology
 
 # Short bio (displayed in user profile at end of posts)
