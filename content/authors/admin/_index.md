@@ -11,7 +11,7 @@ role: Postdoctoral researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Leuphana Universität Lüneburg
-  url: https://www.fernuni-hagen.de/community-psychology
+  url: https://www.leuphana.de/en/institutes/ifsp/team/iniobong-essien.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm interested in how social contexts affect intergroup relations.
