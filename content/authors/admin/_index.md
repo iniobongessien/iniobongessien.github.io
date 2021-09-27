@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:iniobong.essien@fernuni-hagen.de
+  link: mailto:iniobong.essien@leuphana.de
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=cEQ0y48AAAAJ&hl=en
