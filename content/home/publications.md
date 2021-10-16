@@ -37,6 +37,8 @@ design:
   view: 4
 ---
 
+Degner, J., Floether, J., **Essien, I.**. (in press). Members of disadvantaged groups rarely explain group status with group stereotypes.  _Frontiers in Psychology_.
+
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science_. [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
 
 \* Co-first authors.
