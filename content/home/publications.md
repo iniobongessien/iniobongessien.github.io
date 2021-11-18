@@ -37,7 +37,7 @@ design:
   view: 4
 ---
 
-Degner, J., Floether, J., **Essien, I.**. (in press). Do members of disadvantaged groups explain group status with group stereotypes?  _Frontiers in Psychology_.
+Degner, J., Floether, J., **Essien, I.**. (2021). Do members of disadvantaged groups explain group status with group stereotypes?  _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2021.750606
 
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science_. [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
 
