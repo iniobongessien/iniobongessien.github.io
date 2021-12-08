@@ -37,13 +37,13 @@ design:
   view: 4
 ---
 
-Degner, J., Floether, J., **Essien, I.** (2021). Do members of disadvantaged groups explain group status with group stereotypes?  _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2021.750606
+**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science_. [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
 
 \* Co-first authors.
 
-**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
+Degner, J., Floether, J., **Essien, I.** (2021). Do members of disadvantaged groups explain group status with group stereotypes?  _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2021.750606
 
 **Essien, I.**, Calanchini, J., & Degner, J. (2021). Moderators of intergroup evaluation in disadvantaged groups: A comprehensive test of predictions from system justification theory. _Journal of Personality and Social Psychology_, _120_(5), 1204–1230. https://doi.org/10.1037/pspi0000302
 
