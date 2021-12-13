@@ -43,6 +43,10 @@ Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bia
 
 \* Co-first authors.
 
+Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). Shooter biases and stereotypes in police and civilians [Manuscript submitted for publication].
+
+\* Co-first authors.
+
 Degner, J., Floether, J., **Essien, I.** (2021). Do members of disadvantaged groups explain group status with group stereotypes?  _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2021.750606
 
 **Essien, I.**, Calanchini, J., & Degner, J. (2021). Moderators of intergroup evaluation in disadvantaged groups: A comprehensive test of predictions from system justification theory. _Journal of Personality and Social Psychology_, _120_(5), 1204–1230. https://doi.org/10.1037/pspi0000302
