@@ -39,7 +39,7 @@ design:
 
 **Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (in press). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences_. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
-Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science_. [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
+Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (in press). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science_. [https://doi.org/10.1177/09567976211051272](https://doi.org/10.1177/09567976211051272) [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
 
 \* Co-first authors.
 
