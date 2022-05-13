@@ -37,13 +37,13 @@ design:
   view: 4
 ---
 
-Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). Shooter biases and stereotypes in police and civilians [Manuscript submitted for publication].
-
-\* Co-first authors.
-
 **Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (2022). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences, 45_, e74. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (2022). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science, 33(4)_, 483–496. [https://doi.org/10.1177/09567976211051272](https://doi.org/10.1177/09567976211051272) [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
+
+\* Co-first authors.
+
+Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). Shooter biases and stereotypes in police and civilians [Manuscript submitted for publication].
 
 \* Co-first authors.
 
