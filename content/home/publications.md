@@ -37,17 +37,19 @@ design:
   view: 4
 ---
 
+## Preprints
+
+Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2022). Double standards in judging collective actions. _PsyArXiv_. [https://doi.org/10.31234/osf.io/28fyt](https://doi.org/10.31234/osf.io/28fyt)
+
 ## Published and in Press
+
+**\* Co-first authors.**
 
 **Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (2022). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences, 45_, e74. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (2022). Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.  _Psychological Science, 33(4)_, 483–496. [https://doi.org/10.1177/09567976211051272](https://doi.org/10.1177/09567976211051272) [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
 
-\* Co-first authors.
-
 Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). Shooter biases and stereotypes in police and civilians [Manuscript submitted for publication].
-
-\* Co-first authors.
 
 Degner, J., Floether, J., **Essien, I.** (2021). Do members of disadvantaged groups explain group status with group stereotypes?  _Frontiers in Psychology_. [https://doi.org/10.3389/fpsyg.2021.750606](https://doi.org/10.3389/fpsyg.2021.750606)
 
@@ -60,10 +62,5 @@ Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P.
 **Essien, I.**, Degner, J., & Otten, S. (2020). Group evaluations as self-group distancing: Ingroup typicality moderates evaluative intergroup bias in stigmatized groups. _European Journal of Social Psychology_, _50_(6), 1108–1124. [https://doi.org/10.1002/ejsp.2708](https://doi.org/10.1002/ejsp.2708)
 
 **Essien, I.**\*, Stelter, M.\*, Kalbe, F., Köhler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. _Journal of Experimental Social Psychology_, 70, 41–47. [https://doi.org/10.1016/j.jesp.2016.12.009](https://doi.org/10.1016/j.jesp.2016.12.009)
-\* Co-first authors.
 
 Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus segregation on automatic approach and avoidance behavior towards own and other ethnic groups. _European Journal of Social Psychology_, _46_(6), 783–791. [https://doi.org/10.1002/ejsp.2234](https://doi.org/10.1002/ejsp.2234)
-
-## Preprints
-
-Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2022). Double standards in judging collective actions. _PsyArXiv_. [https://doi.org/10.31234/osf.io/28fyt](https://doi.org/10.31234/osf.io/28fyt)
