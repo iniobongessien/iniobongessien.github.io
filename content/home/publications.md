@@ -65,7 +65,7 @@ Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P.
 
 Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus segregation on automatic approach and avoidance behavior towards own and other ethnic groups. _European Journal of Social Psychology_, _46_(6), 783–791. [https://doi.org/10.1002/ejsp.2234](https://doi.org/10.1002/ejsp.2234)
 
-## In Preparation or Under Review
+## Under Review or in Preparation
 
 Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). _Shooter biases and stereotypes among police and civilians_. Manuscript under revision.
 
