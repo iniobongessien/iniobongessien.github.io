@@ -67,6 +67,6 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 
 ## Under Review or in Preparation
 
-Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). _Shooter biases and stereotypes among police and civilians_. Manuscript under revision.
+**Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2022). _Context-based discrimination in school_. Manuscript in preparation.
 
-**Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2021). _Context-based discrimination in school_. Manuscript in preparation.
+Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). _Shooter biases and stereotypes among police and civilians_. Manuscript under revision.
