@@ -45,6 +45,8 @@ Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, 
 
 \* Co-first authors.
 
+Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (in press). Shooter biases and stereotypes among police and civilians. _Acta Psychologica_.
+
 Froehlich, L., **Essien, I.**, & Martiny, S. E. (2022). Stereotype in Kindergärten und Kindertagesstätten: Theoretische Grundlagen, empirische Evidenz und Interventionsansätze für pädagogisches Fachpersonal. In S. Glock (Ed.), _Stereotype in der Schule II: Ursachen und Möglichkeiten der Intervention_ (pp. 137–170). Springer. [https://doi.org/10.1007/978-3-658-37262-0_4](https://doi.org/10.1007/978-3-658-37262-0_4)
 
 **Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (2022). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences, 45_, e74. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
@@ -68,7 +70,5 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 ## Under Review or in Preparation
 
 **Essien, I.**, & Rohmann, A. (2022). _Space-focused stereotypes of ethnically diverse places_. Manuscript under revision.
-
-Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2021). _Shooter biases and stereotypes among police and civilians_. Manuscript under revision.
 
 **Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2022). _Context-based discrimination in school_. Manuscript in preparation.
