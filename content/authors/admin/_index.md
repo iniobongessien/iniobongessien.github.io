@@ -6,7 +6,7 @@ title: Iniobong Essien
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Postdoctoral fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
