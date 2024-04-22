@@ -41,6 +41,8 @@ design:
 
 \* Co-first authors.
 
+**Essien, I.**, & Rohmann, A. (in press). Space-focused stereotypes of immigrant neighborhoods. Manuscript under revision. _British Journal of social Psychology_.
+
 Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2023). Shooter biases and stereotypes among police and civilians. _Acta Psychologica, 232,_ Article 103820, 1–14. [https://doi.org/10.1016/j.actpsy.2022.103820](https://doi.org/10.1016/j.actpsy.2022.103820) [Preprint](https://doi.org/10.31234/osf.io/bzrk8)
 
 Froehlich, L., **Essien, I.**, & Martiny, S. E. (2022). Stereotype in Kindergärten und Kindertagesstätten: Theoretische Grundlagen, empirische Evidenz und Interventionsansätze für pädagogisches Fachpersonal. In S. Glock (Ed.), _Stereotype in der Schule II: Ursachen und Möglichkeiten der Intervention_ (pp. 137–170). Springer. [https://doi.org/10.1007/978-3-658-37262-0_4](https://doi.org/10.1007/978-3-658-37262-0_4)
@@ -68,7 +70,5 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2022). Double standards in judging collective actions. _PsyArXiv_. [https://doi.org/10.31234/osf.io/28fyt](https://doi.org/10.31234/osf.io/28fyt)
 
 ## Under Review or in Preparation
-
-**Essien, I.**, & Rohmann, A. (2022). _Space-focused stereotypes of immigrant neighborhoods_. Manuscript under revision.
 
 **Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2022). _Context-based discrimination in school_. Manuscript in preparation.
