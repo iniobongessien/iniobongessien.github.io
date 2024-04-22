@@ -41,7 +41,7 @@ design:
 
 \* Co-first authors.
 
-**Essien, I.**, & Rohmann, A. (in press). Space-focused stereotypes of immigrant neighborhoods. Manuscript under revision. _British Journal of social Psychology_.
+**Essien, I.**, & Rohmann, A. (in press). Space-focused stereotypes of immigrant neighborhoods. _British Journal of social Psychology_.
 
 Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2023). Shooter biases and stereotypes among police and civilians. _Acta Psychologica, 232,_ Article 103820, 1–14. [https://doi.org/10.1016/j.actpsy.2022.103820](https://doi.org/10.1016/j.actpsy.2022.103820) [Preprint](https://doi.org/10.31234/osf.io/bzrk8)
 
