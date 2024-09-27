@@ -41,6 +41,8 @@ design:
 
 \* Co-first authors.
 
+XXX
+
 **Essien, I.**, & Rohmann, A. (2024). Space-focused stereotypes of immigrant neighbourhoods. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
 
 Hechler, S., & **Essien, I.** (2024). Rassismus im Kontext rechtsextremer Ideologie. In T. Rothmund & E. Walther (Eds.), _Psychologie der Rechtsradikalisierung: Theorien, Perspektiven, Prävention_. Kohlhammer. [https://doi.org/10.17433/978-3-17-043998-6](https://doi.org/10.17433/978-3-17-043998-6)
