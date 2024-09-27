@@ -43,7 +43,11 @@ design:
 
 **Essien, I.**, & Rohmann, A. (2024). Space-focused stereotypes of immigrant neighbourhoods. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
 
+Hechler, S., & **Essien, I.** (2024). Rassismus im Kontext rechtsextremer Ideologie. In T. Rothmund & E. Walther (Eds.), _Psychologie der Rechtsradikalisierung: Theorien, Perspektiven, Prävention_. Kohlhammer. [https://doi.org/10.17433/978-3-17-043998-6](https://doi.org/10.17433/978-3-17-043998-6)
+
 Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2023). Shooter biases and stereotypes among police and civilians. _Acta Psychologica, 232,_ Article 103820, 1–14. [https://doi.org/10.1016/j.actpsy.2022.103820](https://doi.org/10.1016/j.actpsy.2022.103820) [Preprint](https://doi.org/10.31234/osf.io/bzrk8)
+
+Siem, B., & **Essien, I.** (2023). „Weiß und gebildet?“ Auf dem Weg zu einer divers(er)en Klimaschutzbewegung. _The Inquisitive Mind, 4_. [https://de.in-mind.org/article/weiss-und-gebildet-auf-dem-weg-zu-einer-diverseren-klimaschutzbewegung](https://de.in-mind.org/article/weiss-und-gebildet-auf-dem-weg-zu-einer-diverseren-klimaschutzbewegung)
 
 Froehlich, L., **Essien, I.**, & Martiny, S. E. (2022). Stereotype in Kindergärten und Kindertagesstätten: Theoretische Grundlagen, empirische Evidenz und Interventionsansätze für pädagogisches Fachpersonal. In S. Glock (Ed.), _Stereotype in der Schule II: Ursachen und Möglichkeiten der Intervention_ (pp. 137–170). Springer. [https://doi.org/10.1007/978-3-658-37262-0_4](https://doi.org/10.1007/978-3-658-37262-0_4)
 
