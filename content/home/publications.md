@@ -77,5 +77,5 @@ Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, 
 
 ## Under Review or in Preparation
 
-**Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2022). _Context-based discrimination in school_. Manuscript in preparation .
+**Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2022). _Context-based discrimination in school_. Manuscript in preparation.
 
