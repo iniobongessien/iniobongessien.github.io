@@ -41,6 +41,7 @@ design:
 
 \* Co-first authors.
 
+**Essien, I.**, & Siem, B. (in press) Space-focused stereotypes and their potential role in group-based disparities in social work services. _Social Work & Society_.
 
 **Essien, I.**, & Rohmann, A. (2024). Space-focused stereotypes of immigrant neighbourhoods. _British Journal of Social Psychology, 63_(4). [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
 
@@ -77,4 +78,3 @@ Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, 
 ## Under Review or in Preparation
 
 **Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2022). _Context-based discrimination in school_. Manuscript in preparation.
-
