@@ -41,6 +41,8 @@ design:
 
 \* Co-first authors.
 
+Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (in press). Double standards in judging collective action. _Journal of Experimental Psychology: General_.
+
 **Essien, I.**, & Siem, B. (in press) Space-focused stereotypes and their potential role in group-based disparities in social work services. _Social Work & Society_.
 
 **Essien, I.**, & Rohmann, A. (2024). Space-focused stereotypes of immigrant neighbourhoods. _British Journal of Social Psychology, 63_(4). [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
