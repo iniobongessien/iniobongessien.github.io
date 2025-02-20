@@ -41,6 +41,8 @@ design:
 
 \* Co-first authors.
 
+Degner, J., Floether, J., & **Essien, I.**, (in press). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_
+
 Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (in press). Double standards in judging collective action. _Journal of Experimental Psychology: General_.
 
 **Essien, I.**, & Siem, B. (in press) Space-focused stereotypes and their potential role in group-based disparities in social work services. _Social Work & Society_.
@@ -78,8 +80,6 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2022). Double standards in judging collective actions. _PsyArXiv_. [https://doi.org/10.31234/osf.io/28fyt](https://doi.org/10.31234/osf.io/28fyt)
 
 ## Under Review or in Preparation
-
-Degner, J., Floether, J., & **Essien, I.**, (2024). _Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups_. Mauscript under review.
 
 **Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript in preparation.
 
