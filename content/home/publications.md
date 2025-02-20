@@ -83,4 +83,6 @@ Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, 
 
 **Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript submitted for publication.
 
-**Essien, I.**, Froehlich, L., Siem, B., & Rohmann, A. (2025). _Context-based discrimination in school_. Manuscript in preparation.
+Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation. _Manuscript submitted for publication_.
+
+**Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). _Context-based discrimination in school_. Manuscript in preparation.
