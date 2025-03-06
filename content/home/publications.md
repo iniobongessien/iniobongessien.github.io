@@ -41,7 +41,7 @@ design:
 
 \* Co-first authors.
 
-Degner, J., Floether, J., & **Essien, I.**, (in press). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_
+Degner, J., Floether, J., & **Essien, I.**, (in press). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12874](https://doi.org/10.1111/bjso.12874)
 
 Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (in press). Double standards in judging collective action. _Journal of Experimental Psychology: General_.
 
