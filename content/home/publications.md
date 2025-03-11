@@ -47,7 +47,7 @@ Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, 
 
 **Essien, I.**, & Siem, B. (in press) Space-focused stereotypes and their potential role in group-based disparities in social work services. _Social Work & Society_.
 
-**Essien, I.**, & Rohmann, A. (2024). Space-focused stereotypes of immigrant neighbourhoods. _British Journal of Social Psychology, 63_(4). [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
+**Essien, I.**, & Rohmann, A. (2024). {{% staticref "uploads/Essien_&_Rohmann_2024_BJSP.pdf" "newtab" %}}Space-focused stereotypes of immigrant neighbourhoods.{{% /staticref %}} _British Journal of Social Psychology, 63_(4). [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
 
 Hechler, S., & **Essien, I.** (2024). Rassismus im Kontext rechtsextremer Ideologie. In T. Rothmund & E. Walther (Eds.), _Psychologie der Rechtsradikalisierung: Theorien, Perspektiven, Prävention_. Kohlhammer. [https://doi.org/10.17433/978-3-17-043998-6](https://doi.org/10.17433/978-3-17-043998-6)
 
