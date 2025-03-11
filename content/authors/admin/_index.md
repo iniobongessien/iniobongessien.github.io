@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-I study intergroup processes and social context. For example, my research investigates how places are described differently depending on the groups of people living there; how the social composition of school contexts affects teachers' decision making in the classroom; or how geographic regions might differ in terms of intergroup bias.
+I study intergroup processes and social context. For example, my research investigates how places are perceived differently depending on the groups of people living there; how the social composition of school contexts affects teachers' decision-making in the classroom; or how geographic regions differ in terms of intergroup bias.
 
 I am a postdoctoral researcher at the Professorship for Social and Organisational Psychology of Social Work at Leuphana Universität Lüneburg, Germany.
