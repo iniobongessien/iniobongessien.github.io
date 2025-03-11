@@ -51,7 +51,7 @@ Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, 
 
 Hechler, S., & **Essien, I.** (2024). Rassismus im Kontext rechtsextremer Ideologie. In T. Rothmund & E. Walther (Eds.), _Psychologie der Rechtsradikalisierung: Theorien, Perspektiven, Prävention_. Kohlhammer. [https://doi.org/10.17433/978-3-17-043998-6](https://doi.org/10.17433/978-3-17-043998-6)
 
-Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2023). {{% staticref "uploads/Stelter_Essien_et_al_2023.pdf" "newtab" %}}Shooter biases and stereotypes among police and civilians.{{% /staticref %}} _Acta Psychologica, 232,_ Article 103820, 1–14. [https://doi.org/10.1016/j.actpsy.2022.103820](https://doi.org/10.1016/j.actpsy.2022.103820) [Preprint](https://doi.org/10.31234/osf.io/bzrk8)
+Stelter, M.\*, **Essien, I.**\*, Rohmann, A., Degner, J., & Kemme, S. (2023). {{% staticref "uploads/Stelter_Essien_et_al_2023.pdf" "newtab" %}}Shooter biases and stereotypes among police and civilians.{{% /staticref %}} _Acta Psychologica, 232,_ Article 103820, 1–14. [https://doi.org/10.1016/j.actpsy.2022.103820](https://doi.org/10.1016/j.actpsy.2022.103820)
 
 Siem, B., & **Essien, I.** (2023). „Weiß und gebildet?“ Auf dem Weg zu einer divers(er)en Klimaschutzbewegung. _The Inquisitive Mind, 4_. [https://de.in-mind.org/article/weiss-und-gebildet-auf-dem-weg-zu-einer-diverseren-klimaschutzbewegung](https://de.in-mind.org/article/weiss-und-gebildet-auf-dem-weg-zu-einer-diverseren-klimaschutzbewegung)
 
@@ -74,10 +74,6 @@ Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P.
 **Essien, I.**\*, Stelter, M.\*, Kalbe, F., Köhler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. _Journal of Experimental Social Psychology_, 70, 41–47. [https://doi.org/10.1016/j.jesp.2016.12.009](https://doi.org/10.1016/j.jesp.2016.12.009)
 
 Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus segregation on automatic approach and avoidance behavior towards own and other ethnic groups. _European Journal of Social Psychology_, _46_(6), 783–791. [https://doi.org/10.1002/ejsp.2234](https://doi.org/10.1002/ejsp.2234)
-
-## Preprints
-
-Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2022). Double standards in judging collective actions. _PsyArXiv_. [https://doi.org/10.31234/osf.io/28fyt](https://doi.org/10.31234/osf.io/28fyt)
 
 ## Under Review or in Preparation
 
