@@ -41,7 +41,7 @@ design:
 
 \* Co-first authors.
 
-Degner, J., Floether, J., & **Essien, I.**, (2025). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12874](https://doi.org/10.1111/bjso.12874) 
+Degner, J., Floether, J., & **Essien, I.**, (2025). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12874](https://doi.org/10.1111/bjso.12874)
 
 Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (in press). Double standards in judging collective action. _Journal of Experimental Psychology: General_.
 
@@ -67,9 +67,9 @@ Degner, J., Floether, J., **Essien, I.** (2021). {{% staticref "uploads/Degner_F
 
 Kemme, S., **Essien, I.**, & Stelter, M. (2020). Antimuslimische Einstellungen in der Polizei? Der Zusammenhang von Kontakthäufigkeit und -qualität mit Vorurteilen und Stereotypen gegenüber Muslimen. _Monatsschrift für Kriminologie und Strafrechtsreform_, _103_(2), 129–149. [https://doi.org/10.1515/mks-2020-2048](https://doi.org/10.1515/mks-2020-2048)
 
-Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P., Badea, C., Bae, J., Batruch, A., Becker, J. C., Bocian, K., Bodroža, B., Bourguignon, D., Bukowski, M., Butera, F., Butler, S. E., Chryssochoou, X., Conway, P., Crawford, J. T., ... **Essien, I.**, … & Zimmerman, J. L. (2020). Subjective status and perceived legitimacy across countries.{{% /staticref %}} _European Journal of Social Psychology_, _50_(5), 921–942. [https://doi.org/10.1002/ejsp.2694](https://doi.org/10.1002/ejsp.2694)
+Brandt, M. J., Kuppens, T., Spears, R., Andrighetto, L., Autin, F., Babincak, P., Badea, C., Bae, J., Batruch, A., Becker, J. C., Bocian, K., Bodroža, B., Bourguignon, D., Bukowski, M., Butera, F., Butler, S. E., Chryssochoou, X., Conway, P., Crawford, J. T., ... **Essien, I.**, … & Zimmerman, J. L. (2020). Subjective status and perceived legitimacy across countries. _European Journal of Social Psychology_, _50_(5), 921–942. [https://doi.org/10.1002/ejsp.2694](https://doi.org/10.1002/ejsp.2694)
 
-**Essien, I.**, Degner, J., & Otten, S. (2020). Group evaluations as self-group distancing: Ingroup typicality moderates evaluative intergroup bias in stigmatized groups.{{% /staticref %}} _European Journal of Social Psychology_, _50_(6), 1108–1124. [https://doi.org/10.1002/ejsp.2708](https://doi.org/10.1002/ejsp.2708)
+**Essien, I.**, Degner, J., & Otten, S. (2020). Group evaluations as self-group distancing: Ingroup typicality moderates evaluative intergroup bias in stigmatized groups. _European Journal of Social Psychology_, _50_(6), 1108–1124. [https://doi.org/10.1002/ejsp.2708](https://doi.org/10.1002/ejsp.2708)
 
 **Essien, I.**\*, Stelter, M.\*, Kalbe, F., Köhler, A., Mangels, J., & Meliß, S. (2017). The shooter bias: Replicating the classic effect and introducing a novel paradigm. _Journal of Experimental Social Psychology_, 70, 41–47. [https://doi.org/10.1016/j.jesp.2016.12.009](https://doi.org/10.1016/j.jesp.2016.12.009)
 
@@ -77,8 +77,10 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 
 ## Under Review or in Preparation
 
-**Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript submitted for publication.
+**Essien, I.**, Siem, B., Clasen, J., Groß, E., Häfele, J., Kammigan, I., Kemme, S., Nickel, A., Taefi, A., Zähringer, U., & Stelter, M. (2025). _Police officers’ perceptions of urban spaces are related to regional demographics_. Manuscript in preparation.
 
-Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation. _Manuscript submitted for publication_.
+**Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures (Preprint){{% /staticref %}}. Manuscript submitted for publication.
 
-**Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). _Context-based discrimination in school_. Manuscript in preparation.
+Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). _Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation_. Manuscript submitted for publication.
+
+**Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). {{% staticref "uploads/Preprint_context-based_discrimination_V2.pdf" "newtab" %}}Context-based discrimination in school discipline (Preprint){{% /staticref %}}. Manuscript in preparation.
