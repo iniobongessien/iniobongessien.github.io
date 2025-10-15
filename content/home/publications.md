@@ -41,9 +41,11 @@ design:
 
 \* Co-first authors.
 
+Becker, J., **Essien, I.**, Halabi, S., Scholaske, L., & Veit, S. (2025). Acknowledging the elephant in the room: A psychology of racism within the European context. _Zeitschrift für Psychologie_, 233(3), 147–154. https://doi.org/10.1027/2151-2604/a000598
+
 Degner, J., Floether, J., & **Essien, I.**, (2025). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12874](https://doi.org/10.1111/bjso.12874)
 
-Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2025). Double standards in judging collective action. _Journal of Experimental Psychology: General_. [https://psycnet.apa.org/doi/10.1037/xge0001743](https://psycnet.apa.org/doi/10.1037/xge0001743) 
+Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2025). Double standards in judging collective action. _Journal of Experimental Psychology: General_. [https://psycnet.apa.org/doi/10.1037/xge0001743](https://psycnet.apa.org/doi/10.1037/xge0001743)
 
 **Essien, I.**, & Siem, B. (2025) Space-focused stereotypes and their potential role in group-based disparities in social work services. _Social Work & Society_.
 
@@ -59,7 +61,7 @@ Froehlich, L., **Essien, I.**, & Martiny, S. E. (2022). Stereotype in Kindergär
 
 **Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (2022). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences, 45_, e74. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
 
-Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (2022). {{% staticref "uploads/Stelter_Essien_et_al_2022.pdf" "newtab" %}}Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.{{% /staticref %}} _Psychological Science, 33(4)_, 483–496. [https://doi.org/10.1177/09567976211051272](https://doi.org/10.1177/09567976211051272) [Preprint](http://dx.doi.org/10.31234/osf.io/djp8g)
+Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (2022). {{% staticref "uploads/Stelter_Essien_et_al_2022.pdf" "newtab" %}}Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.{{% /staticref %}} _Psychological Science, 33(4)_, 483–496.
 
 Degner, J., Floether, J., **Essien, I.** (2021). {{% staticref "uploads/Degner_Floether_&_Essien_2021.pdf" "newtab" %}}Do members of disadvantaged groups explain group status with group stereotypes?{{% /staticref %}} _Frontiers in Psychology_. [https://doi.org/10.3389/fpsyg.2021.750606](https://doi.org/10.3389/fpsyg.2021.750606)
 
@@ -79,8 +81,14 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 
 **Essien, I.**, Siem, B., Clasen, J., Groß, E., Häfele, J., Kammigan, I., Kemme, S., Nickel, A., Taefi, A., Zähringer, U., & Stelter, M. (2025). _Police officers’ perceptions of urban spaces are related to regional demographics_. Manuscript in preparation.
 
+Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography of the shooter bias: Regional context is linked to racialized threat perception_. Manuscript submitted for publication.
+
+Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Smith, C. (2025). _Reframing Africa’s image: Positive information outperforms negation in changing explicit negative evaluations_. Manuscript submitted for publication.
+
 **Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures (Preprint){{% /staticref %}}. Manuscript submitted for publication.
 
 Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). _Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation_. Manuscript submitted for publication.
 
 **Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). {{% staticref "uploads/Preprint_context-based_discrimination_V2.pdf" "newtab" %}}Context-based discrimination in school discipline (Preprint){{% /staticref %}}. Manuscript in preparation.
+
+**Essien, I.**, Stelter, M., Siem, B., Christ, O., & Calanchini, J. (2025). _Social dominance culture_. Manuscript in preparation.
