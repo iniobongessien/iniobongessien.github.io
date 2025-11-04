@@ -66,6 +66,8 @@ email: ""
 highlight_name: false
 ---
 
-I study intergroup processes and social context. For example, my research investigates how places are perceived differently depending on the groups of people living there; how the social composition of school contexts affects teachers' decision-making in the classroom; or how geographic regions differ in terms of intergroup bias.
+I am a social psychologist studying how intergroup processes are shaped by the contexts in which they occur. My research examines how the social makeup of places influences their perception, how the composition of school settings affects teachers’ judgments and decisions, and how intergroup bias varies across regions.
 
-I am a postdoctoral researcher at the Professorship for Social and Organisational Psychology of Social Work at Leuphana Universität Lüneburg, Germany.
+I am currently a postdoctoral researcher at the Professorship for Social and Organisational Psychology of Social Work at Leuphana University Lüneburg, Germany, where my work focuses on the social and structural dynamics of stereotypes, prejudice, and discrimination.
+
+I currently co-direct the project [Constructive Diversity Talk for Prospective Teachers (KoDiTa)](https://www.leuphana.de/en/institutes/ifsp/research-projects/kodita.html), which develops and evaluates an evidence-based higher education program that prepares future teachers to engage constructively in conversations about diversity. From 2021 to 2023, I led a research project funded by the German Research Foundation (DFG) on [context-based discrimination in school discipline](https://gepris.dfg.de/gepris/projekt/466464566?language=en).
