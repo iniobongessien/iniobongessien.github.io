@@ -52,7 +52,7 @@ social:
   icon_pack: ai
   link: https://osf.io/upyct/
 - icon: orcid
-  icon_pack: academicons
+  icon_pack: ai
   link: https://orcid.org/0000-0003-0277-7908
 
 # Link to a PDF of your resume/CV.
