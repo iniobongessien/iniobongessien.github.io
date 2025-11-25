@@ -51,6 +51,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/upyct/
+- icon: orcid
+  icon_pack: academicons
+  link: https://orcid.org/0000-0003-0277-7908
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
