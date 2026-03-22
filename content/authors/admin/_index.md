@@ -19,7 +19,7 @@ bio: I study intergroup processes and social context.
 # Interests to show in About widget
 interests:
 - Intergroup Relations
-- Stereotyping, Prejudice, and Discrimination
+- Discrimination and Intergroup Bias
 - Social Context and Inequality
 - Social Identity and Group Processes
 - Perception of Social Environments
