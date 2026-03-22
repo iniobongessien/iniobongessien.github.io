@@ -19,10 +19,10 @@ bio: I study intergroup processes and social context.
 # Interests to show in About widget
 interests:
 - Intergroup Relations
-- Stereotyping and Prejudice
-- Social Context
-- Social Identity
-- Stigmatized Groups
+- Stereotyping, Prejudice, and Discrimination
+- Social Context and Inequality
+- Social Identity and Group Processes
+- Perception of Social Environments
 
 # Education to show in About widget
 education:
@@ -30,7 +30,7 @@ education:
   - course: Doctor of Science (Dr. rer. nat.) in Social Psychology
     institution: Universität Hamburg
     year: 2020
-  - course: Diplom Degree (equivalent M.A.) in Psychology
+  - course: Diplom Degree (equivalent M.Sc.) in Psychology
     institution: Universität Hamburg
     year: 2012
 
