@@ -39,7 +39,7 @@ design:
 
 ## Published or in Press
 
-\* Co-first authors.
+\* Shared first authorship
 
 Becker, J., **Essien, I.**, Halabi, S., Scholaske, L., & Veit, S. (2025). Acknowledging the elephant in the room: A psychology of racism within the European context. _Zeitschrift für Psychologie_, 233(3), 147–154. https://doi.org/10.1027/2151-2604/a000598
 
