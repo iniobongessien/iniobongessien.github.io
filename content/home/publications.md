@@ -81,7 +81,7 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 
 **Essien, I.**, Siem, B., Clasen, J., Groß, E., Häfele, J., Kammigan, I., Kemme, S., Nickel, A., Taefi, A., Zähringer, U., & Stelter, M. (2025). _Police officers’ perceptions of urban spaces are related to regional demographics_. Manuscript in preparation.
 
-Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography of the shooter bias: Regional context is linked to racialized threat perception_. Manuscript submitted for publication.
+Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography of the shooter bias: Regional context is linked to racialized threat perception_.([Preprint](https://osf.io/preprints/psyarxiv/w39z8_v1)) Manuscript submitted for publication.
 
 Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Smith, C. (2025). _Reframing Africa’s image: Positive information outperforms negation in changing explicit negative evaluations_. Manuscript submitted for publication.
 
