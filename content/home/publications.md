@@ -85,7 +85,7 @@ Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography o
 
 Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Smith, C. (2025). _Reframing Africa’s image: Positive information outperforms negation in changing explicit negative evaluations_. Manuscript submitted for publication.
 
-**Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures (Preprint){{% /staticref %}}. Manuscript submitted for publication.
+**Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures. Manuscript submitted for publication. {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
 Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). _Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation_. Manuscript submitted for publication.
 
