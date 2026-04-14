@@ -59,7 +59,7 @@ Siem, B., & **Essien, I.** (2023). „Weiß und gebildet?“ Auf dem Weg zu eine
 
 Froehlich, L., **Essien, I.**, & Martiny, S. E. (2022). Stereotype in Kindergärten und Kindertagesstätten: Theoretische Grundlagen, empirische Evidenz und Interventionsansätze für pädagogisches Fachpersonal. In S. Glock (Ed.), _Stereotype in der Schule II: Ursachen und Möglichkeiten der Intervention_ (pp. 137–170). Springer. [https://doi.org/10.1007/978-3-658-37262-0_4](https://doi.org/10.1007/978-3-658-37262-0_4)
 
-**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (2022). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences, 45_, e74. https://doi.org/10.1017/S0140525X21000832 [Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities)
+**Essien, I.**, Stelter, M., Rohmann, A., & Degner, J. (2022). Beyond stereotypes: Prejudice as an important missing force explaining group disparities. _Behavioral and Brain Sciences, 45_, e74. https://doi.org/10.1017/S0140525X21000832 ([Preprint](https://www.researchgate.net/publication/351249333_Beyond_stereotypes_Prejudice_as_an_important_missing_force_explaining_group_disparities))
 
 Stelter, M.\*, **Essien, I.**\*, Sander, C., & Degner, J. (2022). {{% staticref "uploads/Stelter_Essien_et_al_2022.pdf" "newtab" %}}Racial bias in police traffic stops: White residents' county-level prejudice and stereotypes are related to disproportionate stopping of Black drivers.{{% /staticref %}} _Psychological Science, 33(4)_, 483–496.
 
@@ -81,14 +81,14 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 
 **Essien, I.**, Siem, B., Clasen, J., Groß, E., Häfele, J., Kammigan, I., Kemme, S., Nickel, A., Taefi, A., Zähringer, U., & Stelter, M. (2025). _Police officers’ perceptions of urban spaces are related to regional demographics_. Manuscript in preparation.
 
-Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography of the shooter bias: Regional context is linked to racialized threat perception_.([Preprint](https://osf.io/preprints/psyarxiv/w39z8_v1)) Manuscript submitted for publication.
+Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography of the shooter bias: Regional context is linked to racialized threat perception_. Manuscript submitted for publication. ([Preprint](https://osf.io/preprints/psyarxiv/w39z8_v1))
 
 Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Smith, C. (2025). _Reframing Africa’s image: Positive information outperforms negation in changing explicit negative evaluations_. Manuscript submitted for publication.
 
-**Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures. Manuscript submitted for publication. {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}(Preprint){{% /staticref %}}
+**Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript submitted for publication. {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
 Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). _Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation_. Manuscript submitted for publication.
 
-**Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). {{% staticref "uploads/Preprint_context-based_discrimination_V2.pdf" "newtab" %}}Context-based discrimination in school discipline (Preprint){{% /staticref %}}. Manuscript in preparation.
+**Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). _Context-based discrimination in school discipline_. Manuscript in submitted for publication. {{% staticref "uploads/Preprint_context-based_discrimination_V2.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
 **Essien, I.**, Stelter, M., Siem, B., Christ, O., & Calanchini, J. (2025). _Social dominance culture_. Manuscript in preparation.
