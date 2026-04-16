@@ -41,7 +41,7 @@ design:
 
 \* Shared first authorship
 
-**Essien, I.**, & Siem, B. (2025) Space-focused stereotypes and their potential role in group-based disparities in social work services. _Social Work & Society_.
+**Essien, I.**, & Siem, B. (2025) [Space-focused stereotypes and their potential role in group-based disparities in social work services.](https://ejournals.bib.uni-wuppertal.de/index.php/sws/article/view/1061/1513) _Social Work & Society_.
 
 Becker, J., **Essien, I.**, Halabi, S., Scholaske, L., & Veit, S. (2025). Acknowledging the elephant in the room: A psychology of racism within the European context. _Zeitschrift für Psychologie_, 233(3), 147–154. https://doi.org/10.1027/2151-2604/a000598
 
