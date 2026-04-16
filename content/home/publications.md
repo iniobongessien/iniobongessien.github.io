@@ -45,9 +45,9 @@ design:
 
 Becker, J., **Essien, I.**, Halabi, S., Scholaske, L., & Veit, S. (2025). Acknowledging the elephant in the room: A psychology of racism within the European context. _Zeitschrift für Psychologie_, 233(3), 147–154. https://doi.org/10.1027/2151-2604/a000598
 
-Degner, J., Floether, J., & **Essien, I.**, (2025). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12874](https://doi.org/10.1111/bjso.12874)
-
 Reimer, N. K., Branković, M., **Essien, I.**, Goh, J. X., Goudeau, S., Lantos, N. A., & Veldman, J. (2025). Double standards in judging collective action. _Journal of Experimental Psychology: General_. [https://psycnet.apa.org/doi/10.1037/xge0001743](https://psycnet.apa.org/doi/10.1037/xge0001743)
+
+Degner, J., Floether, J., & **Essien, I.**, (2025). Pressured to be proud? Investigating the link between perceived norms and intergroup attitudes in members of disadvantaged minority groups. _British Journal of Social Psychology_. [https://doi.org/10.1111/bjso.12874](https://doi.org/10.1111/bjso.12874)
 
 **Essien, I.**, & Rohmann, A. (2024). {{% staticref "uploads/Essien_&_Rohmann_2024_BJSP.pdf" "newtab" %}}Space-focused stereotypes of immigrant neighbourhoods.{{% /staticref %}} _British Journal of Social Psychology, 63_(4). [https://doi.org/10.1111/bjso.12756](https://doi.org/10.1111/bjso.12756)
 
