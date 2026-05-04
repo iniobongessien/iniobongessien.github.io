@@ -87,7 +87,7 @@ Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Sm
 
 **Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript submitted for publication. {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
-Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (2025). _Police officers’ distrust and prejudice towards racialized groups is related to negative construal of intergroup contact and motivation_. Manuscript submitted for publication.
+Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (in press). Police officers' prejudice and distrust towards racialized groups is related to internal motivation to suppress prejudice and negative intergroup contact. _British Journal of Social Psychology_.
 
 **Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). _Context-based discrimination in school discipline_. Manuscript in submitted for publication. {{% staticref "uploads/Preprint_context-based_discrimination_V2.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
