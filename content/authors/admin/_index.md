@@ -6,7 +6,7 @@ title: Iniobong Essien
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral fellow
+role: Postdoctoral Researcher in Social Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,16 @@ organizations:
   url: https://www.leuphana.de/en/institutes/ifsp/team/iniobong-essien.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study intergroup processes and social context.
+bio: Social psychologist studying how social contexts shape stereotypes, discrimination, and group-based inequalities.
 
 # Interests to show in About widget
 interests:
-- Intergroup Relations
-- Racism, Discrimination, and Intergroup Bias
-- Social Context and Inequality
-- Social Identity and Group Processes
-- Perception of Social Environments
+- Context-Based Discrimination
+- Stereotypes and Prejudice
+- Intergroup Relations and Inequality
+- Social Perception of Places and Neighborhoods
+- Regional Context and Intergroup Bias
+- Research Methods and Open Science
 
 # Education to show in About widget
 education:
@@ -30,7 +31,7 @@ education:
   - course: Doctor of Science (Dr. rer. nat.) in Social Psychology
     institution: Universität Hamburg
     year: 2020
-  - course: Diplom Degree (equivalent M.Sc.) in Psychology
+  - course: Diplom Degree (equiv. M.Sc.) in Psychology
     institution: Universität Hamburg
     year: 2012
 
@@ -58,24 +59,16 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/iniobong-essien-872037225/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a social psychologist studying how intergroup processes are shaped by the contexts in which they occur. My research examines how the social makeup of places influences their perception, how the composition of school settings affects teachers’ judgments and decisions, and how intergroup bias varies across regions.
+I am a social psychologist studying how social and structural contexts shape intergroup perception, judgment, and discrimination. My research asks how the composition of social environments — classrooms, neighborhoods, regions — influences how people perceive and evaluate others, and how this contributes to group-based disparities.
 
-I am currently a postdoctoral researcher at the Professorship for Social and Organisational Psychology of Social Work at Leuphana University Lüneburg, Germany, where my work focuses on the social and structural dynamics of stereotypes, prejudice, and discrimination. In recognition of this work, I received the [Leuphana Gender and Diversity Award 2022–2023](https://www.leuphana.de/universitaet/termine/dies-academicus/dies-academicus-2025.html#c819294) (Leuphana Sonderpreis für Geschlechter- und Diversitätsforschung) for outstanding achievements in diversity research.
+My work combines experimental methods, field studies, multilevel analyses, and large-scale secondary data to connect micro-level psychological processes to macro-level patterns of inequality. Two interconnected lines of research define this program.
 
-I currently co-direct the project [Constructive Diversity Talk for Prospective Teachers (KoDiTa)](https://www.leuphana.de/en/institutes/ifsp/research-projects/kodita.html), which develops and evaluates a higher education program that aims to prepare future teachers to engage constructively in conversations about diversity. From 2021 to 2023, I led a research project funded by the German Research Foundation ([DFG](https://gepris.dfg.de/gepris/projekt/466464566?language=en)) on [context-based discrimination in school discipline](https://gepris.dfg.de/gepris/projekt/466464566?language=en), and I was recently awarded an Emmy Noether grant by the DFG to support the development of an independent research program on these processes in educational settings.
+**Context-based discrimination in institutional settings.** This research develops and tests a model of how the social composition of environments shapes perception and decision-making in institutional contexts. A central focus is school discipline: how classroom and school composition influences teachers' interpretations of behavior and their disciplinary responses, contributing to disparities that emerge at the level of settings rather than individuals. This program is supported by a DFG Emmy Noether grant and builds on earlier DFG-funded work.
 
-Together, this work reflects my broader interest in how intergroup processes unfold in educational settings and how insights from this research can contribute to more inclusive and equitable schools.
+**Social perception of places.** Neighborhoods and urban spaces carry reputations tied to the groups associated with them. I study how these place-focused stereotypes shape evaluations and institutional decisions, including among professionals such as police officers and social workers.
+
+I am currently a postdoctoral researcher at the [Professorship for Social and Organisational Psychology of Social Work](https://www.leuphana.de/en/institutes/ifsp/team/iniobong-essien.html) at Leuphana Universität Lüneburg. In 2023, I received the [Leuphana Gender and Diversity Award](https://www.leuphana.de/universitaet/termine/dies-academicus/dies-academicus-2025.html#c819294) (Leuphana Sonderpreis für Geschlechter- und Diversitätsforschung) for my
+research on stereotypes, prejudice, and discrimination. Alongside this research, I co-direct [KoDiTa](https://www.leuphana.de/en/institutes/ifsp/research-projects/kodita.html), a project developing and evaluating a higher education program that prepares future teachers for constructive engagement with diversity.
