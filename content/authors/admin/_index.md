@@ -64,11 +64,11 @@ highlight_name: false
 
 I am a social psychologist studying how social and structural contexts shape intergroup perception, judgment, and discrimination. My research asks how the composition of social environments — classrooms, neighborhoods, regions — influences how people perceive and evaluate others, and how this contributes to group-based disparities.
 
-My work combines experimental methods, field studies, multilevel analyses, and large-scale secondary data to connect micro-level psychological processes to macro-level patterns of inequality. Two interconnected lines of research define this program.
+My work combines experimental methods, field studies, multilevel analyses, and large-scale secondary data to connect micro-level psychological processes to macro-level patterns of inequality. Two lines of research define this program.
 
 **Context-based discrimination in institutional settings.** This research develops and tests a model of how the social composition of environments shapes perception and decision-making in institutional contexts. A central focus is school discipline: how classroom and school composition influences teachers' interpretations of behavior and their disciplinary responses, contributing to disparities that emerge at the level of settings rather than individuals. This program is supported by a DFG Emmy Noether grant and builds on earlier DFG-funded work.
 
-**Social perception of places.** Neighborhoods and urban spaces carry reputations tied to the groups associated with them. I study how these place-focused stereotypes shape evaluations and institutional decisions, including among professionals such as police officers and social workers.
+**Social perception of places.** Neighborhoods and urban spaces carry reputations tied to the groups associated with them. I study how these space-focused stereotypes shape evaluations and institutional decisions, including among professionals such as police officers or social workers.
 
 I am currently a postdoctoral researcher at the [Professorship for Social and Organisational Psychology of Social Work](https://www.leuphana.de/en/institutes/ifsp/team/iniobong-essien.html) at Leuphana Universität Lüneburg. In 2023, I received the [Leuphana Gender and Diversity Award](https://www.leuphana.de/universitaet/termine/dies-academicus/dies-academicus-2025.html#c819294) (Leuphana Sonderpreis für Geschlechter- und Diversitätsforschung) for my
 research on stereotypes, prejudice, and discrimination. Alongside this research, I co-direct [KoDiTa](https://www.leuphana.de/en/institutes/ifsp/research-projects/kodita.html), a project developing and evaluating a higher education program that prepares future teachers for constructive engagement with diversity.
