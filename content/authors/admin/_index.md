@@ -66,7 +66,7 @@ I am a social psychologist studying how social and structural contexts shape int
 
 My work combines experimental methods, field studies, multilevel analyses, and large-scale secondary data to connect micro-level psychological processes to macro-level patterns of inequality. Two lines of research define this program.
 
-**Context-based discrimination in institutional settings.** This research develops and tests a model of how the social composition of environments shapes perception and decision-making in institutional contexts. A central focus is school discipline: how classroom and school composition influences teachers' interpretations of behavior and their disciplinary responses, contributing to disparities that emerge at the level of settings rather than individuals. This program is supported by a DFG Emmy Noether grant and builds on earlier DFG-funded work.
+**Context-based discrimination in institutional settings.** This research develops and tests a model of how the social composition of environments shapes perception and decision-making in institutional contexts. A central focus is school discipline: how classroom and school composition influences teachers' interpretations of behavior and their disciplinary responses, contributing to disparities that emerge between school settings rather than only within them. This program is supported by a DFG Emmy Noether grant and builds on earlier DFG-funded work.
 
 **Social perception of places.** Neighborhoods and urban spaces carry reputations tied to the groups associated with them. I study how these space-focused stereotypes shape evaluations and institutional decisions, including among professionals such as police officers or social workers.
 
