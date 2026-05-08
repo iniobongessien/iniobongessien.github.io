@@ -22,7 +22,7 @@ interests:
 - Stereotypes and Prejudice
 - Intergroup Relations and Inequality
 - Social Perception of Places and Neighborhoods
-- Regional Context and Intergroup Bias
+- Regional Bias
 - Open Science and Reproducibility
 
 # Education to show in About widget
