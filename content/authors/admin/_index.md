@@ -23,7 +23,7 @@ interests:
 - Intergroup Relations and Inequality
 - Social Perception of Places and Neighborhoods
 - Regional Context and Intergroup Bias
-- Research Methods and Open Science
+- Open Science and Reproducibility
 
 # Education to show in About widget
 education:

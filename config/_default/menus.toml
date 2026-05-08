@@ -5,14 +5,18 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "/#about"
   weight = 5
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 20
+  name = "Research"
+  url = "/research/"
+  weight = 10
 
+[[main]]
+  name = "Publications"
+  url = "/#publications"
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

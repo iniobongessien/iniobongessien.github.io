@@ -4,14 +4,7 @@ date: 2026-05-07
 type: page
 ---
 
-My research examines how social and structural contexts shape intergroup
-perception, judgment, and discrimination. A central premise is that many
-forms of bias and inequality cannot be explained by individual attitudes
-alone. They may also arise through the interaction between psychological processes
-and the structural features of social environments. My work develops
-empirical approaches to study this interaction, combining
-experimental designs, field studies, multilevel methods, and secondary
-data analysis.
+My research examines how social and structural contexts shape intergroup perception, judgment, and discrimination. A central premise is that many forms of bias and inequality cannot be explained by individual attitudes alone. They may also arise through the interaction between psychological processes and the structural features of social environments. My work develops empirical approaches to study this interaction, combining experimental designs, field studies, multilevel methods, and secondary data analysis.
 
 Two research lines define this program.
 
@@ -35,8 +28,6 @@ This line of work examines the structure and content of space-focused stereotype
 
 ---
 
-## Methods and Open Science
-
-Across both lines, I combine experimental methods with field studies and secondary data analysis. Experiments identify causal effects of contextual features. Field studies and large-scale datasets aim to establish generalizability and connect psychological processes to real-world patterns of inequality.
+## Open Science and Reproducibility
 
 I share materials, data, and preregistrations where possible via the [Open Science Framework](https://osf.io/upyct/).
