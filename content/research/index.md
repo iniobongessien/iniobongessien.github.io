@@ -6,7 +6,7 @@ type: page
 
 My research examines how social and structural contexts shape intergroup perception, judgment, and discrimination. A central premise is that many forms of bias and inequality cannot be explained by individual attitudes alone. They may also arise through the interaction between psychological processes and the structural features of social environments. My work develops empirical approaches to study this interaction, combining experimental designs, field studies, multilevel methods, and secondary data analysis.
 
-Two research lines define this program.
+Three research lines define this program.
 
 ---
 
@@ -22,9 +22,13 @@ This program is supported by a DFG Emmy Noether grant and builds on earlier DFG-
 
 ## Social Perception of Places and Neighborhoods
 
-People perceive places as socially meaningful. Neighborhoods and urban spaces are stereotyped in ways tied to the groups associated with them, and these space-focused stereotypes may shape evaluations and institutional decisions.
+People perceive places as socially meaningful. Neighborhoods and urban spaces are stereotyped in ways tied to the groups associated with them, and these space-focused stereotypes may shape evaluations and institutional decisions. This line of work examines how such stereotypes form, what they look like, and what consequences they have for judgment and institutional decision-making. Understanding how spaces are stereotyped matters because these perceptions may shape consequential decisions by professionals and institutions, potentially in ways that reinforce existing inequalities.
 
-This line of work examines the structure and content of space-focused stereotypes, particularly those tied to immigrant neighborhoods, and their consequences for judgment. One study collected data from 648 patrol officers in Hamburg, showing that officers' descriptions of their patrol areas were more negative in districts with higher shares of residents with a migration background — a pattern consistent with experimental findings from civilian samples. Related work examines how place-focused stereotypes figure in professional decision-making in social work services.
+---
+
+## Regional Intergroup Bias
+
+Intergroup biases vary systematically across regions, and these regional differences are linked to real-world disparities in areas such as policing, health, and education. This line of work examines how regional variation in prejudice and ideology relates to discriminatory outcomes, connecting individual psychological processes to regional contexts.
 
 ---
 
