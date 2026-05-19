@@ -41,6 +41,8 @@ design:
 
 \* Shared first authorship
 
+Stelter, M., **Essien, I.**, von Bargen, J. M. & Christ, O. (2026). Police officers' prejudice and distrust towards racialized groups is related to internal motivation to suppress prejudice and negative intergroup contact. _British Journal of Social Psychology, 65_(3), e70094. [https://doi.org/10.1111/bjso.70094](https://doi.org/10.1111/bjso.70094)
+
 **Essien, I.**, & Siem, B. (2025) [Space-focused stereotypes and their potential role in group-based disparities in social work services.](https://ejournals.bib.uni-wuppertal.de/index.php/sws/article/view/1061/1513) _Social Work & Society_.
 
 Becker, J., **Essien, I.**, Halabi, S., Scholaske, L., & Veit, S. (2025). Acknowledging the elephant in the room: A psychology of racism within the European context. _Zeitschrift für Psychologie_, 233(3), 147–154. https://doi.org/10.1027/2151-2604/a000598
@@ -86,8 +88,6 @@ Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography o
 Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Smith, C. (2025). _Reframing Africa’s image: Positive information outperforms negation in changing explicit negative evaluations_. Manuscript submitted for publication.
 
 **Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript submitted for publication. {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}(Preprint){{% /staticref %}}
-
-Stelter, M., **Essien, I.**, von Bargen, M. & Christ, O. (in press). Police officers' prejudice and distrust towards racialized groups is related to internal motivation to suppress prejudice and negative intergroup contact. _British Journal of Social Psychology_.
 
 **Essien, I.**, Froehlich, L., Rohmann, A., & Siem, B. (2025). _Context-based discrimination in school discipline_. Manuscript in submitted for publication. {{% staticref "uploads/Preprint_context-based_discrimination_V2.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
