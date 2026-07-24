@@ -41,6 +41,10 @@ design:
 
 \* Shared first authorship
 
+Hahn, A., Moran, T., Akinnola, I., **Essien, I.**, Stelter, M., Adeyemi, F., & Smith, C. T. (2026). Reframing Africa's image: Positive information outperforms stereotype negation in changing explicit negative evaluations. _Social Psychological and Personality Science_. [https://doi.org/10.1177/19485506261465709](https://doi.org/10.1177/19485506261465709)
+
+Siem, B., Sandermann, P., & **Essien, I.** (2026). "Race doesn't matter?": Sociodemographic predictors of racial colourblindness and perceptions of racism among social work professionals. _The British Journal of Social Work_, Article bcag135. [https://doi.org/10.1093/bjsw/bcag135](https://doi.org/10.1093/bjsw/bcag135)
+
 Stelter, M., **Essien, I.**, von Bargen, J. M. & Christ, O. (2026). Police officers' prejudice and distrust towards racialized groups is related to internal motivation to suppress prejudice and negative intergroup contact. _British Journal of Social Psychology, 65_(3), e70094. [https://doi.org/10.1111/bjso.70094](https://doi.org/10.1111/bjso.70094)
 
 **Essien, I.**, & Siem, B. (2025) [Space-focused stereotypes and their potential role in group-based disparities in social work services.](https://ejournals.bib.uni-wuppertal.de/index.php/sws/article/view/1061/1513) _Social Work & Society_.
@@ -84,8 +88,6 @@ Degner, J., **Essien, I.**, & Reichardt, R. (2016): Effects of diversity versus 
 **Essien, I.**, Siem, B., Clasen, J., Groß, E., Häfele, J., Kammigan, I., Kemme, S., Nickel, A., Taefi, A., Zähringer, U., & Stelter, M. (2025). _Police officers’ perceptions of urban spaces are related to regional demographics_. Manuscript in preparation.
 
 Stelter, M., **Essien, I.**, Christ, O., Calanchini, J. (2025). _The geography of the shooter bias: Regional context is linked to racialized threat perception_. Manuscript submitted for publication. ([Preprint](https://osf.io/preprints/psyarxiv/w39z8_v1))
-
-Hahn, A., Moran, T., Adeyemi, F, Akinnola, I., Stelter, M., **Essien, I.**, & Smith, C. (2025). _Reframing Africa’s image: Positive information outperforms negation in changing explicit negative evaluations_. Manuscript submitted for publication.
 
 **Essien, I.**, Siem, B., Zander, L., & Rohmann, A. (2025). _The racialized classroom: The influence of classroom composition on teachers' decisions to use disciplinary measures_. Manuscript submitted for publication. {{% staticref "uploads/Preprint_the_racialized_classroom.pdf" "newtab" %}}(Preprint){{% /staticref %}}
 
