@@ -16,7 +16,7 @@ Racialized disparities in institutional outcomes are well documented. Students f
 
 Prior research has mostly treated school discipline as a dyadic event between a teacher and a student. Teachers, however, do not only interact with individual students. They act in classrooms with particular compositions, embedded in schools, nested in neighborhoods. My work develops and tests a model of how these contextual features shape teachers' perceptions and disciplinary responses, contributing to disparities that may emerge between school settings rather than only within them.
 
-This program is supported by a DFG Emmy Noether grant and builds on earlier DFG-funded work. Preliminary work with pre-service and in-service teachers suggest that racialized classroom composition influences disciplinary decisions and perceptions of student behavior, even when the behavior itself is held constant across conditions.
+This program is supported by a [DFG Emmy Noether](https://gepris.dfg.de/project/576033594/3) grant and builds on earlier DFG-funded work. Preliminary work with pre-service and in-service teachers suggest that racialized classroom composition influences disciplinary decisions and perceptions of student behavior, even when the behavior itself is held constant across conditions.
 
 ---
 
